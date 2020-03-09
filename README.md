@@ -36,6 +36,11 @@ The project is structured as following:
 
 # Output
 
+On the left, we have a real image, and on the right we have what our model predicts.
+
+![alt text](https://raw.githubusercontent.com/diandiaye/MAP583_final_project_team_16/master/images/Result.png) 
+
+
 ### Tensorboard
 In order the visualize metrics and results in tensorboard you need to launch it separately: `tensorboard --logdir = logs`. You can then access tensorboard in our browser at [localhost:6006](localhost:6006)
 If you have performed multiple experiments, tensorboard will aggregate them in the same dashboard.
