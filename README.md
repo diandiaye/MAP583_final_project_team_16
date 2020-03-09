@@ -30,7 +30,7 @@ The project is structured as following:
 ```
 
 
-# Launching
+# Architecture
 
 # Output
 
