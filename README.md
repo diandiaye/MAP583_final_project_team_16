@@ -38,7 +38,7 @@ The project is structured as following:
 
 On the left, we have a real image, and on the right we have what our model predicts.
 
-![alt text](https://raw.githubusercontent.com/diandiaye/MAP583_final_project_team_16/master/images/Result.png) 
+![alt text](https://raw.githubusercontent.com/diandiaye/MAP583_final_project_team_16/master/images/Result%20.png) 
 
 
 ### Tensorboard
