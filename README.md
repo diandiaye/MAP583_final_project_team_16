@@ -18,15 +18,14 @@ The project is structured as following:
 ```bash
 .
 ├── loader
-|   └── load_cityscapes_dataset.py # loading and pre-processing gtsrb data
+|   └── load_cityscapes_dataset.py # loading data from https://github.com/diandiaye/MAP583.git
+|   └── dataloader.py # data loader
 ├── models
 |   └── architecture
-|   └── .py # classical CNN
+|   └── unet.py # classical CNN
 ├── toolbox
-|   └── loss.py # perceptrual losses
-|   └── logger.py  # keeping track of most results during training and storage to static .html file
+|   └── loss.py # diversity loss : percetrual losses VGG-19 
 |   └── utils.py   # various utility functions
-├── commander.py # main file from the project serving for calling all necessary functions for training and testing
 ├── trainer.py # pipelines for training, validation and testing
 ```
 
