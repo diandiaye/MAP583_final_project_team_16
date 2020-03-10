@@ -32,7 +32,7 @@ The project is structured as following:
 
 # Architecture
 
-![alt text](https://raw.githubusercontent.com/diandiaye/MAP583_final_project_team_16/master/images/Architecture.png) 
+
 
 # Output
 
